@@ -1,0 +1,6 @@
+# Ignore .gradle
+/.gradle/*
+# Ignore build files
+/build/*
+#Ignore files with suffix ~
+~*.*
